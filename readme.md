@@ -11,7 +11,7 @@ yarn server
 yarn start
 ```
 
-Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador para visualizar a aplicação.
 
 
 <h1 align="center">
